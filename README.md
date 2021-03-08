@@ -17,11 +17,18 @@ Silimar to train_features for which we need to predict the salaries.
 ### Features in training data:
 
 jobId (categorical) - A unique identifier for each employee. I will not be using this for analysis but only to merge features with their corresponding salaries from the salaries dataset.
+
 companyId (categorical) - A unique identifier for each company.
+
 jobType (categorical) - Describes the position of the employee, like Junior, Manager, Vice President, CEO, etc.
+
 degree (categorical) - Describes the highest educational qualification of the employee, like High School, Bachelors, Masters, etc.
+
 major (categorical) - Describes the major chosen by the employee in college, like Chemistry, Math, Physics, etc.
+
 industry (categorical) - Describes the industry in which the employee is working, like Auto, Health, Finance, Oil, etc.
-yearsExperience (numerical) - Number of years of experience the employee has
+
+yearsExperience (numerical) - Number of years of experience the employee has.
+
 milesFromMetropolis (numerical) - Job location's distance from nearest metropolis.
 
