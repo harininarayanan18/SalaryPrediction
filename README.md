@@ -1,0 +1,2 @@
+# SalaryPrediction
+In this project I have worked on predicting the salary of employees based on various categories such as Job Type, Industry in which they are employed, Educational qualification, etc. It will also take into account the numerical categories like the number of years of experience the employee has and their distance from the nearest metropolitan city. I use various regression algorithms to find the best model. The dataset can be found on Kaggle.
