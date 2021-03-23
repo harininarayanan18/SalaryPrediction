@@ -1,3 +1,8 @@
 Pandas
 Numpy
 Scikit-learn
+math
+matplotlib
+seaborn
+xgboost
+tqdm (optional)
